@@ -19,5 +19,6 @@ the design of the gripper, the technique used for feedback estimation and the in
 
 **Keywords:** unmanned aerial vehicle, aerial grasping, aerial object manipulation, sensor feedback
 
-
-
+**Video of Experiments:**
+Autonomous grasping test: https://youtu.be/WBgUNp1UqlA
+Piloted grasping test: https://youtu.be/bOQ2FRhOzXw
