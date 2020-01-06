@@ -10,6 +10,7 @@ source codes from bachelor's thesis assignment **Design of an Electromagnetic Gr
 **Program = Bachelor's in Electrical Engineering & Computer Science [BEECS]**
 
 **ABSTRACT**
+
 This thesis work deals with the design of a grasping mechanism for
 aerial grasping and assembly tasks by autonomous unmanned aerial
 vehicles (UAVs). The proposed design is aimed at solving ferromagnetic
