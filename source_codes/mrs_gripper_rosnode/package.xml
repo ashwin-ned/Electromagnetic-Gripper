@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <name>mrs_gripper</name>
+  <version>0.0.1</version>
+  <description>ROS node driver for mrs gripper</description>
+
+  <maintainer email="nedunash@fel.cvut.cz">Ashwin Nedungadi</maintainer>
+
+  <license>MIT</license>
+
+  <author email="nedunash@fel.cvut.cz">Ashwin Nedungadi</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>mrs_msgs</depend>
+
+  <export>
+  </export>
+
+</package>
