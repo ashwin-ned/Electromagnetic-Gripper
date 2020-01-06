@@ -1,7 +1,7 @@
 # Electro-Grip
 source codes from bachelor's thesis assignment **Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles** at Czech Technical University, Prague 2020. 
 
-**Author = Ashwin Suresh Nedungadi 
+**Author = Ashwin Suresh Nedungadi// 
 Year = 2020 
 Thesis Topic = Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles
 Program = Bachelor's in Electrical Engineering & Computer Science [BEECS]**
