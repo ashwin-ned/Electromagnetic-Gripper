@@ -1,5 +1,7 @@
 # Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles (UAVs)
-source codes and media from bachelor's thesis assignment **Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles** at Czech Technical University, Prague 2020. 
+source codes and media from bachelor's thesis assignment **Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles** with the Multi-Robot Systems Robotics group at Czech Technical University, Prague 2020. 
+
+Website: http://mrs.felk.cvut.cz/
 
 **Author = Ashwin Suresh Nedungadi** 
 
