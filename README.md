@@ -4,6 +4,7 @@ source codes and media from bachelor's thesis assignment **Design of an Electrom
 Website: http://mrs.felk.cvut.cz/
 
 **Author = Ashwin Suresh Nedungadi** 
+**Supervisor = Dr. Martin Saska, Ing.** 
 
 **Year = 2020** 
 
