@@ -1,11 +1,15 @@
 # Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles (UAVs)
-source codes and media from bachelor's thesis assignment **Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles** with the Multi-Robot Systems Robotics group at Czech Technical University, Prague 2020. 
+Source codes and media files from bachelor's thesis assignment **Design of an Electromagnetic Gripper for Unmanned Aerial Vehicles** with the Multi-Robot Systems Robotics group at Czech Technical University, Prague 2020. 
 
-Website: http://mrs.felk.cvut.cz/
+Note: The work was also accepted for publication in Springer's Lecture Notes in Computer Science under:
+A Nedungadi and M Saska. “Design of an Active-Reliable Grasping Mechanism for Autonomous Unmanned Aerial Vehicles”. In Modelling and Simulation for Autonomous Systems (MESAS 2019). [Accepted, Awaiting Publication]
+
 
 **Author = Ashwin Suresh Nedungadi** 
 
 **Supervisor = Dr. Martin Saska, Ing.** 
+
+**Website: http://mrs.felk.cvut.cz/**
 
 **Year = 2020** 
 
